@@ -1,8 +1,8 @@
 {
-  "name": "infra",
+  "name": "mogulx-infra",
   "version": "0.1.0",
   "bin": {
-    "infra": "bin/infra.js"
+    "core": "bin/core.js"
   },
   "scripts": {
     "build": "tsc",
