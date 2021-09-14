@@ -2,7 +2,7 @@
   "name": "mogulx-infra",
   "version": "0.1.0",
   "bin": {
-    "core": "bin/core.js"
+    "app": "bin/app.js"
   },
   "scripts": {
     "build": "tsc",
