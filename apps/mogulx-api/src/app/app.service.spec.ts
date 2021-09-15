@@ -14,8 +14,8 @@ describe('AppService', () => {
   });
 
   describe('getData', () => {
-    it('should return "Welcome to mogulx!"', () => {
-      expect(service.getData()).toEqual({ message: 'Welcome to mogulx!' });
+    it('should return "Welcome to mogulx-api!"', () => {
+      expect(service.getData()).toEqual({ message: 'Welcome to mogulx-api!' });
     });
   });
 });
